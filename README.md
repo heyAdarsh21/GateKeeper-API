@@ -1,4 +1,4 @@
-# Product Catalog & Rate-Limited API
+# Catalog Flow API: Product Catalog & Rate-Limited API
 Simple backend service built with Node.js and Express.js.
 Features:
 - Sliding window rate limiter
